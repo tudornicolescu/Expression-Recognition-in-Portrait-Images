@@ -9,3 +9,5 @@ https://github.com/microsoft/FERPlus
     booktitle={ACM International Conference on Multimodal Interaction (ICMI)},
     year={2016}
 }
+
+The file shape_predictor_68_face_landmarks.dat can be downloaded from: https://github.com/davisking/dlib-models
